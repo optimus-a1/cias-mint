@@ -5,7 +5,7 @@
 ### Step 1: 安装
 
 ```
-git clone https://github.com/sfter/cias-mint
+git clone https://github.com/optimus-a1r/cias-mint
 yarn install
 cp .env.example .env
 ```
